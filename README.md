@@ -1,5 +1,4 @@
-# robotOtto
-Configuracion y Codigo del Robot Otto
+# robot Otto
 
 ![](./img/otto.jpg)
 
